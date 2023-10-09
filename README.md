@@ -10,8 +10,9 @@ I am currently a 3-year student studying Software Engineering at Hanoi Universit
 I am passionate about solving software stuffs, and I aspire to become a renowned Software Engineer.
 
 Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just to say hello! 🌟
-
 ### Talking about Personal Stuff:
+<img align="right" height="500px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+
 
 - 🛠 &nbsp; I’m currently working with JS, Vue, React, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
@@ -43,6 +44,7 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ng-namanh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-namanh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  
 </details>
 
 <details>
