@@ -1,3 +1,4 @@
+![MasterHead](https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966)
 ## Hey there 👋, I'm [Nam Anh!](https://github.com/ng-namanh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namanhh03)
@@ -70,5 +71,5 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
+![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
