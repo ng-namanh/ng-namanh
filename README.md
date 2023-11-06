@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/9e5e7795957f65ab8a2f305aaaffc4ccbbdbae2e78c66d0fe37b51c8fa6ce774/68747470733a2f2f692e696d6775722e636f6d2f34585444584f352e676966)
-## Hey there 👋, I'm [Nam Anh!](https://github.com/ng-namanh/)
+## Hey there 👋, I'm [namanh!](https://github.com/ng-namanh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namanhh03)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ng_namanh13/)
