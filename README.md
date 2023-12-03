@@ -15,7 +15,7 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
 
 - 🛠 &nbsp; I’m currently working with JS, Vue, React, etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: namanh200313@gmail.com.
+- 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
 
 
 
