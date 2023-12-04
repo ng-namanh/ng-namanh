@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-008BE6?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038219105685&sk=about)
 ### Appreciate for visiting my profile! &nbsp; 
 
-I am currently a 3-year student studying Software Engineering at Hanoi University and Frontend Developer @ GDSC HANU - A program represented by Google Developers.
+I am a 3-year SWE student at Hanoi University and Frontend Developer @ GDSC HANU - A program represented by Google Developers.
 
 I am passionate about solving software stuffs, and I aspire to become a renowned Software Engineer.
 
