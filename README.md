@@ -7,7 +7,7 @@
 
 ✌️✌️✌️ I am a 3-year SWE student at Hanoi University and Frontend Lead @ GDSC HANU - A program represented by Google Developers.
 
-I am passionate about solving software stuffs. I dream of working as a Software Engineer at Google one day ✌️
+I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
 
 Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just to say hello! 🌟
 ### Talking about Personal Stuff:
