@@ -65,10 +65,4 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
 	</ul>
 </details>
 
-#
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-</div>
