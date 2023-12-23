@@ -13,7 +13,7 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
 ### Talking about Personal Stuff:
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
-- 🛠 &nbsp; I’m currently working with Javascript, Typescrupt, React, NextJS, etc..
+- 🛠 &nbsp; I’m currently working with Javascript, Typescript, React, NextJS for the client side and also Express, NestJS for server side..
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
 
