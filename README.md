@@ -19,7 +19,7 @@ Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just 
 
 
 
-### My Absolute Favorites:
+### Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, Learning & Watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups, Tech Events & Hackathons
