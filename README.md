@@ -9,7 +9,6 @@
 
 I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
 
-Feel free to connect with me @namanhh03 on LinkedIn for all things tech or just to say hello! 🌟
 ### Talking about Personal Stuff:
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
