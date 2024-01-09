@@ -25,7 +25,7 @@ I am passionate about solving software stuffs. I dream of working as a Software 
 
 ### My primary techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=7)](https://skillicons.dev)
 
 ### Projects and Dev Stuffs:
 
