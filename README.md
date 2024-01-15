@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [namanh!](https://github.com/ng-namanh/)
+## Hi 👋, I'm [namanh!](https://github.com/ng-namanh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/namanhh03)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ng_namanh13/)
