@@ -12,7 +12,7 @@ I am passionate about solving software stuffs. I dream of working as a Software 
 ### Talking about Personal Stuff:
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
-- 🛠 &nbsp; I’m primarily working with Typescript, React, NextJS, Express, NestJS..
+- 🛠 &nbsp; I’m primarily working with Typescript, React, NextJS, Express, NestJS.. and also Vue and its ecosystem.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
 
