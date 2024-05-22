@@ -48,10 +48,10 @@ I am passionate about solving software stuffs. I dream of working as a Software 
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Window 11</li>
+  	    <li><b>OS:</b> Linux Mint 21.3</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 5i</li>
-  	    <li><b>Browser: </b> Microsoft Edge</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+  	    <li><b>Browser: </b> Fire Fox</li>
+	    <li><b>Code Editor:</b>Lazyvim</li>
 	</ul>
 </details>
 
