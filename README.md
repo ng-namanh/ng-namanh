@@ -17,9 +17,7 @@ I am passionate about solving software stuffs..
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=7)](https://skillicons.dev)
 
-
-<details>
-  <br />
+ <br />
   <b>⚙️ Things I use to get stuff done</b>
   	<ul>
   	    <li><b>OS:</b> Arch Linux</li>
@@ -27,6 +25,5 @@ I am passionate about solving software stuffs..
   	    <li><b>Browser: </b> Zen Browser</li>
 	    <li><b>Code Editor:</b>Zed</li>
 	</ul>
-</details>
 
 
