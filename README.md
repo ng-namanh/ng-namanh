@@ -7,22 +7,16 @@
 
 I am passionate about solving software stuffs..
 
-### Talking about Personal Stuff:
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
 - 🛠 &nbsp; I’m primarily working with Typescript, NextJS, NestJS...
 - 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
 
-### Favorites:
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, Learning & Watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups, Tech Events & Hackathons
 
 ### My primary techstack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=7)](https://skillicons.dev)
 
-### My setup:
 
 <details>
   <br />
