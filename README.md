@@ -5,17 +5,13 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-008BE6?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038219105685&sk=about)
 ### Appreciate for visiting my profile! &nbsp; 
 
-✌️✌️✌️ I am a 3-year SWE student at Hanoi University and Frontend Lead @ GDSC HANU - A program represented by Google Developers.
-
-I am passionate about solving software stuffs. I dream of working as a Software Engineer at Big Tech company one day ✌️
+I am passionate about solving software stuffs..
 
 ### Talking about Personal Stuff:
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
 
-- 🛠 &nbsp; I’m primarily working with Typescript, React, NextJS, Express, NestJS...
+- 🛠 &nbsp; I’m primarily working with Typescript, NextJS, NestJS...
 - 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
-
-
 
 ### Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
@@ -26,32 +22,16 @@ I am passionate about solving software stuffs. I dream of working as a Software 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=7)](https://skillicons.dev)
 
-### Projects and Dev Stuffs:
-
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ng-namanh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ng-namanh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ng-namanh&hide_border=true" />
-</details>
+### My setup:
 
 <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Linux Mint 21.3</li>
+  	    <li><b>OS:</b> Arch Linux</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 5i</li>
-  	    <li><b>Browser: </b> Fire Fox</li>
-	    <li><b>Code Editor:</b>Lazyvim</li>
+  	    <li><b>Browser: </b> Zen Browser</li>
+	    <li><b>Code Editor:</b>Zed</li>
 	</ul>
 </details>
 
