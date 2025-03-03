@@ -20,7 +20,7 @@ I am passionate about solving software stuffs..
 
 <details>
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <b>⚙️ Things I use to get stuff done</b>
   	<ul>
   	    <li><b>OS:</b> Arch Linux</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad 5i</li>
