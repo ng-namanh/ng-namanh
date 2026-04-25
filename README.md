@@ -5,9 +5,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-008BE6?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038219105685&sk=about)
 ### Appreciate for visiting my profile! &nbsp; 
 
-I am passionate about solving software stuffs..
-
 <img align="right" height="450px" width="420px" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" />
+
+
+I am passionate about solving software stuffs..
 
 - 🛠 &nbsp; I’m primarily working with Typescript, NextJS, NestJS...
 - 📫 &nbsp; Reach me out: namanh.ngna@gmail.com.
