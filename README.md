@@ -15,15 +15,6 @@ I am passionate about solving software stuffs..
 
 ### My primary techstack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,figma,git,nestjs,nodejs,redux,mongo&perline=7)](https://skillicons.dev)
-
- <br />
-  <b>⚙️ Things I use to get stuff done</b>
-  	<ul>
-  	    <li><b>OS:</b> Arch Linux</li>
-	    <li><b>Laptop: </b> Lenovo Ideapad 5i</li>
-  	    <li><b>Browser: </b> Zen Browser</li>
-	    <li><b>Code Editor:</b>Zed</li>
-	</ul>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs&perline=7)](https://skillicons.dev)
 
 
